@@ -6,7 +6,7 @@ A Laminas Cache Storage adapter that enables storing large items by automaticall
 
 Install via composer:
 ```
-composer require twee/cache-storage-adapter-large-items
+composer require truesocialmetrics/cache-storage-adapter-large-items
 ```
 
 ## Features
