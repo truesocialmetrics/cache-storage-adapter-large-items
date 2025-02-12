@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Laminas\\Cache\\Storage\\Adapter\\": "src/"
+        "Twee\\Cache\\Storage\\Adapter\\": "src/"
       }
     }
   }

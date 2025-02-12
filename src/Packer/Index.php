@@ -1,6 +1,6 @@
 <?php
 
-namespace Laminas\Cache\Storage\Adapter\Packer;
+namespace Twee\Cache\Storage\Adapter\Packer;
 
 final class Index
 {

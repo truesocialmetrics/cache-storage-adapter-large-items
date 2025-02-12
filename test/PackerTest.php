@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace LaminasTest\Cache\Storage\Adapter;
+namespace TweeTest\Cache\Storage\Adapter;
 
+use Twee\Cache\Storage\Adapter\Packer;
+use Twee\Cache\Storage\Adapter\Packer\Data;
+use Twee\Cache\Storage\Adapter\Packer\Index;
 use Laminas\Cache\Storage\Adapter\Memory;
-use Laminas\Cache\Storage\Adapter\Packer;
-use Laminas\Cache\Storage\Adapter\Packer\Data;
-use Laminas\Cache\Storage\Adapter\Packer\Index;
 use PHPUnit\Framework\TestCase;
 
 class PackerTest extends TestCase

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Laminas\Cache\Storage\Adapter;
+namespace Twee\Cache\Storage\Adapter;
 
 use Laminas\Cache\Storage\Adapter\AbstractAdapter;
 use Laminas\Cache\Storage\AbstractMetadataCapableAdapter;
